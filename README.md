@@ -1,2 +1,2 @@
 # NeuralNetworks-Classification
-Image Classification by Neural Networks in Python
+Image Classification with Neural Networks in Python
